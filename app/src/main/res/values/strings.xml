@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LightMorse</string>
+    <string name="button_mors">MORSE start</string>
+    <string name="button_morse_stop">MORSE Stop</string>
+    <string name="text_hint">Enter message...</string>
+</resources>

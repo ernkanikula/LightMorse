@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorMainBackground">#000000</color>
+    <color name="colorTextButtonDefault">#FFFEFF</color>
+    <color name="colorTextButtonOn">#5AFF1F</color>
+    <color name="colorTextBtnShadowColorOn">#9685A8</color>
+    <color name="colorTextBtnMorseStop">#D30700</color>
+    <color name="colorBtnMorseStopStorke">#8E0400</color>
+    <color name="colorTextEditText">#FFE72C</color>
+    <color name="colorTextEditTextHint">#FFFEFF</color>
+    <color name="colorShadowColor">#9685A8</color>
+    <color name="colorBtnLedCheckedStroke">#499D11</color>
+    <color name="colorBtnLedStroke">#878787</color>
+</resources>
